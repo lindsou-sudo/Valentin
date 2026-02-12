@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "T'es sure?",
+    "Vraiment sure??",
+    "Ca va bien dans ta tête?",
+    "lindsou please...❤️",
+    "Réfléchis encore stp!",
+    "Si tu dis non on aura pas de jolies bébés😏",
+    "Pas de bébé ONU++ 👹",
+    "Je suis déçu de toi 😔",
+    "Ok c'est bon j'arrête 🦧",
+    "MDR moi arrêter jamais 👹🤭"
 ];
 
 let messageIndex = 0;
